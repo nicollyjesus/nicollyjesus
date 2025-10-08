@@ -1,20 +1,49 @@
-## Olá, sou a Nicolly Jesus, amante de programação e gatinhos 😺!
+<h1 align="center">Oii, eu sou a Nicolly Jesus 👋</h1>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<p align="center">
+  <em>✨ Engenheira de Software • Desenvolvedora ✨</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
+
+---
+
+<p align="center">
+  Ben-Vindo ao meu perfil! Sou apaixonada por programação, tecnologia e gatinhos. 
+  Aqui você encontrará um pouco sobre o meu mundo. :)
+</p>
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/fernanda-kipper-5958a61a9/](https://www.linkedin.com/in/nicolly-jesus/)">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:nicolly.jesus.nj@gmail.com">
+    <img src="https://img.shields.io/badge/-nicolly.jesus.nj.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🌸 Sobre Mim
+
+- 👩🏻‍💻 Amante de tecnologia
+- 🧑‍🏫 Formada em Análise e Desenvolvimento de Sistemas
+- 🏆 Pós graduação em Bih Data e Inteligência Artificial em andamento
+
+---
+
+### 💻 Tecnologias mais usadas!
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
+### 🟩 Registro de Commits
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Fernanda-Kipper&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>

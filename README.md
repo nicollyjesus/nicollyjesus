@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/fernanda-kipper-5958a61a9/](https://www.linkedin.com/in/nicolly-jesus/)">
+  <a href="https://www.linkedin.com/in/nicolly-jesus/">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="mailto:nicolly.jesus.nj@gmail.com">

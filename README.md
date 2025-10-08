@@ -24,6 +24,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="150px" alt="commit gif looping" />
+</p>
+
 ---
 
 ### 🌸 Sobre Mim
@@ -50,6 +54,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="150px" alt="commit gif looping" />
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique-Capitani/Henrique-Capitani/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrique-Capitani/Henrique-Capitani/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Henrique-Capitani/Henrique-Capitani/output/github-contribution-grid-snake.svg">
+</picture>

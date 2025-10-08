@@ -33,7 +33,7 @@
 ### 🌸 Sobre Mim
 
 - 👩🏻‍💻 Amante de tecnologia
-- 🧑‍🏫 Formada em Análise e Desenvolvimento de Sistemas
+- 🧑‍🏫 Formação em Análise e Desenvolvimento de Sistemas em andamento 
 - 🏆 Pós graduação em Big Data e Inteligência Artificial em andamento
 
 ---

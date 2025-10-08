@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  Ben-Vindo ao meu perfil! Sou apaixonada por programação, tecnologia e gatinhos. 
+  Bem-Vindo ao meu perfil! Sou apaixonada por programação, tecnologia e gatinhos. 
   Aqui você encontrará um pouco sobre o meu mundo. :)
 </p>
 
@@ -30,7 +30,7 @@
 
 - 👩🏻‍💻 Amante de tecnologia
 - 🧑‍🏫 Formada em Análise e Desenvolvimento de Sistemas
-- 🏆 Pós graduação em Bih Data e Inteligência Artificial em andamento
+- 🏆 Pós graduação em Big Data e Inteligência Artificial em andamento
 
 ---
 

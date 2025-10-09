@@ -50,23 +50,12 @@
 
 <div align="center">
 
-### 💻 Tecnologias mais usadas!
-
-<p>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollyjesus&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</p>
-
-</div>
-
----
+## 📊 GitHub Stats
 
 <div align="center">
-
-### 🟩 Registro de Commits
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=nicollyjesus&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicollyjesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollyjesus&layout=compact&langs_count=10&theme=radical"/>
+</div>
 
 </div>
 

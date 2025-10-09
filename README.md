@@ -38,11 +38,27 @@
 
 <div align="center">
 
-### 🌸 Sobre Mim
+## 🌸 Sobre Mim
 
  - 👩🏻‍💻 Amante de tecnologia
  - 🧑‍🏫 Formação em Análise e Desenvolvimento de Sistemas em andamento
  - 🏆 Pós graduação em Big Data e Inteligência Artificial em andamento
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Experiência Profissional
+
+### ✨ Abaixo estão as minhas experiências profissionais mais recentes ✨
+
+- **Estágio em Engenheiria de Software - Itáu Unibanco** \
+**Linguagens e Tecnologias:** `Java`, `Spring`, `AWS`, `SQL`, `Metodologia Ágil`, `POO`, `Lógica de Programação`\
+
+- **Jovem Aprendiz - Itáu Unibanco** \
+**Skills:** `Comunicação`, `Pacote Office`, `CRM`, ` Índice de Cumprimento de Metas (ICM)`, `Organização de Dados`, `Pensamento Crítico `, `Comunicação`\
 
 </div>
 

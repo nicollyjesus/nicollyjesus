@@ -1,4 +1,8 @@
+<div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=nicollyjesus1&color=006bed)
+
+</div>
 
 <h1 align="center">Oii, eu sou a Nicolly Jesus 👋</h1>
 

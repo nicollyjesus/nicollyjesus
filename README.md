@@ -36,29 +36,49 @@
 
 ---
 
+<div align="center">
+
 ### 🌸 Sobre Mim
 
-- 👩🏻‍💻 Amante de tecnologia
-- 🧑‍🏫 Formação em Análise e Desenvolvimento de Sistemas em andamento 
-- 🏆 Pós graduação em Big Data e Inteligência Artificial em andamento
+ - 👩🏻‍💻 Amante de tecnologia
+ - 🧑‍🏫 Formação em Análise e Desenvolvimento de Sistemas em andamento
+ - 🏆 Pós graduação em Big Data e Inteligência Artificial em andamento
+
+</div>
 
 ---
+
+<div align="center">
 
 ### 💻 Tecnologias mais usadas!
 
-<p align="center">
+<p>
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollyjesus&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🟩 Registro de Commits
 
-<p align="center">
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=nicollyjesus&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
 
+</div>
+
 ---
+
+<div align="center">
+
+## 🏆 Conquistas e Reconhecimento
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nicollyjesus&theme=onedark&row=2&column=4)
+
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique-Capitani/Henrique-Capitani/output/github-contribution-grid-snake-dark.svg">

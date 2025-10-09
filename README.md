@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=nicollyjesus1&color=006bed)
+
 <h1 align="center">Oii, eu sou a Nicolly Jesus 👋</h1>
 
 <p align="center">

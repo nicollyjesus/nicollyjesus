@@ -54,7 +54,7 @@
 
 ### ✨ Abaixo estão as minhas experiências profissionais mais recentes ✨
 
-- **Estágio em Engenheiria de Software - Itáu Unibanco** \
+- **Estágio em Engenharia de Software - Itáu Unibanco** \
 **Linguagens e Tecnologias:** `Java`, `Spring`, `AWS`, `SQL`, `Metodologia Ágil`, `POO`, `Lógica de Programação`\
 
 - **Jovem Aprendiz - Itáu Unibanco** \

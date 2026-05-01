@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/89/15/7d/89157d3842f743497ac35a8fe6781531.gif" width="50px" alt="commit gif looping" />
+  <img src="https://i.pinimg.com/originals/89/15/7d/89157d3842f743497ac35a8fe6781531.gif" width="650px" alt="commit gif looping" />
 </p>
 
 <p align="center">
